@@ -1,0 +1,25 @@
+
+.header{
+  background: black;
+}
+.main-menu a{
+  text-align: left;
+}
+.top{
+  margin-top: 20px;
+}
+.btn{
+  margin-bottom: 100px;
+}
+.style-button-first{
+  margin-bottom: 150px;
+}
+.style-button-second{
+  margin-bottom: 240px;
+}
+.style-button-third{
+  margin-bottom: 75px;
+}
+#sidebar{
+  margin-top: 30px;
+}
